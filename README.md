@@ -1,6 +1,8 @@
 # L298N motor sürücü ile 4 DC motoru Bluetooth üzerinden kontrol etme
 
 <img width="350" height="280" alt="image" src="https://github.com/user-attachments/assets/84fdda87-d0be-48e4-9cad-3192e78905a1" /> <br>
+<img width="1271" height="841" alt="image" src="https://github.com/user-attachments/assets/3b529477-3de5-43d5-ac16-e4ba5ee72edd" /> <br>
+
 ## L298N Motor Sürücüsü	Hakkında Genel Bilgiler					
 **Girişler:** Arduino'dan gelen yön kontrol sinyallerini kullanır.(IN1-IN2 "SOL" , IN3-IN4 "SAĞ" )						
 						
@@ -14,9 +16,12 @@
 
 # Bağlantı Şekli
 
+
+
 # Kod atılması
 
 **Kodu atarken lütfen bluetoothun RX/TX pinlerini Arduino'ya takılı bir şekilde bırakmayınız. Bırakırsanız kodunuz gitmeyecektir. Rx[(Receiver)= Alıcı], Tx[(Transmitter)= Verici]**
+**Ayrıca hangi karta atacağınızı seçmeyi ve port ayarları yapmayı unutmayınız**
 						
 						
 						
