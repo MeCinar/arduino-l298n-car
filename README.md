@@ -2,7 +2,7 @@
 <html>
 	<body>
 <div style="display: flex;">
-<img width="350" height="280" alt="image" src="https://github.com/user-attachments/assets/84fdda87-d0be-48e4-9cad-3192e78905a1" /> <br>
+<img width="350" height="280" alt="image" src="https://github.com/user-attachments/assets/84fdda87-d0be-48e4-9cad-3192e78905a1" />
 <img width="658" height="466" alt="image" src="https://github.com/user-attachments/assets/31248872-a7a1-46a6-81ac-b22f2f66352f" />
  <br>
 </div>
