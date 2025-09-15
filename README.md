@@ -19,13 +19,13 @@
 
 #### Arduino'ya bağlanacak pinler
 
-** int IN1 = 7; //Arduino'dan motor sürücüye **
+**int IN1 = 7; //Arduino'dan motor sürücüye**
 
-** int IN2 = 6; //Arduino'dan motor sürücüye **
+**int IN2 = 6; //Arduino'dan motor sürücüye**
 
-** int IN3 = 5; //Arduino'dan motor sürücüye **
+**int IN3 = 5; //Arduino'dan motor sürücüye**
 
-** int IN4 = 4; //Arduino'dan motor sürücüye **
+**int IN4 = 4; //Arduino'dan motor sürücüye**
 
 
 # Kod atılması
