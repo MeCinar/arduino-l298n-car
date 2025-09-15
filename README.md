@@ -15,6 +15,8 @@
 # Bağlantı Şekli
 
 # Kod atılması
+
+**Kodu atarken lütfen bluetoothun RX/TX pinlerini Arduino'ya takılı bir şekilde bırakmayınız. Bırakırsanız kodunuz gitmeyecektir. Rx[(Receiver)= Alıcı], Tx[(Transmitter)= Verici]**
 						
 						
 						
