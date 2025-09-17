@@ -1,4 +1,4 @@
-# L298N motor sürücü ile 4 DC motoru Bluetooth üzerinden kontrol etme
+# (DÜZENLENECEK...) L298N motor sürücü ile 4 DC motoru Bluetooth üzerinden kontrol etme
 
 <img width="350" height="280" alt="image" src="https://github.com/user-attachments/assets/84fdda87-d0be-48e4-9cad-3192e78905a1" /> 
 <img width="400" height="280" alt="image" src="https://github.com/user-attachments/assets/31248872-a7a1-46a6-81ac-b22f2f66352f" />
